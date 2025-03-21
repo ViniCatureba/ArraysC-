@@ -12,3 +12,4 @@ C:\Users\vinic\Desktop\C#\Arrays\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dl
 C:\Users\vinic\Desktop\C#\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
 C:\Users\vinic\Desktop\C#\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
 C:\Users\vinic\Desktop\C#\Arrays\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json

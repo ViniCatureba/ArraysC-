@@ -1,0 +1,15 @@
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\bin\Debug\net8.0\Ex.exe
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\bin\Debug\net8.0\Ex.deps.json
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\bin\Debug\net8.0\Ex.runtimeconfig.json
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\bin\Debug\net8.0\Ex.dll
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\bin\Debug\net8.0\Ex.pdb
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.AssemblyInfoInputs.cache
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.AssemblyInfo.cs
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.csproj.CoreCompileInputs.cache
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.sourcelink.json
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.dll
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\refint\Ex.dll
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.pdb
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\Ex.genruntimeconfig.cache
+C:\Users\vinic\Desktop\C#\Arrays\Arrays\ConsoleApp1\obj\Debug\net8.0\ref\Ex.dll
